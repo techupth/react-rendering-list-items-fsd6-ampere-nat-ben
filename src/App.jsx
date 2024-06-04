@@ -23,7 +23,7 @@ function App() {
                 border-radius: 10px;
                 display: flex;
                 color: black;
-                border: solid;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
               `}
             >
               <div
